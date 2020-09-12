@@ -1,0 +1,13 @@
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.exe
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.deps.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.runtimeconfig.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.runtimeconfig.dev.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.pdb
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.csprojAssemblyReference.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.csproj.CoreCompileInputs.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.AssemblyInfoInputs.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.AssemblyInfo.cs
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.dll
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.pdb
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapper.genruntimeconfig.cache

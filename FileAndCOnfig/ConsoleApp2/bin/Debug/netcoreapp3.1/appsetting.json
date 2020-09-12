@@ -1,0 +1,9 @@
+{
+  "Name": "AppConfigaabbcc",
+  "StartDate": "2020/5/1",
+  "EndDate": "2020/5/8",
+  "Behavior": {
+    "IsRead": true,
+    "IsWrite": false
+  }
+} 

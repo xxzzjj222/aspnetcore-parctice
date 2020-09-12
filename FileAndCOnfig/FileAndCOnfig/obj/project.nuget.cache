@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvwPevkB+j1notjbOa4Elye88+guKY1aHQ2KY12MndvIPHAXESFXVTu9ujJmxg2oaeiV9s2ilmmCrlUChsCglw==",
+  "success": true,
+  "projectFilePath": "F:\\VS2019\\aspnetcore\\FileAndCOnfig\\FileAndCOnfig\\FileAndCOnfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.6\\microsoft.extensions.fileproviders.embedded.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\xzj\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

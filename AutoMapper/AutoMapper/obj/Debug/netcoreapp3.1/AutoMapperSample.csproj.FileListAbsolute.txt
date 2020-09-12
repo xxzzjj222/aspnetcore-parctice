@@ -1,0 +1,15 @@
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.exe
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.csprojAssemblyReference.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.AssemblyInfoInputs.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.AssemblyInfo.cs
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.deps.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.runtimeconfig.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.runtimeconfig.dev.json
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.dll
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapperSample.pdb
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.csproj.CoreCompileInputs.cache
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.csproj.CopyComplete
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.dll
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.pdb
+F:\VS2019\aspnetcore\AutoMapper\AutoMapper\obj\Debug\netcoreapp3.1\AutoMapperSample.genruntimeconfig.cache
