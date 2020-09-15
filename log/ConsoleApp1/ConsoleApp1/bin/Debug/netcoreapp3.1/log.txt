@@ -1,0 +1,10 @@
+trace Critical: 1 : Critical信息
+trace Error: 2 : Error信息
+trace Warning: 3 : Warning信息
+trace Information: 4 : Information信息
+trace Verbose: 5 : Verbose信息
+trace Start: 6 : Start信息
+trace Stop: 7 : Stop信息
+trace Suspend: 8 : Suspend信息
+trace Resume: 9 : Resume信息
+trace Transfer: 10 : Transfer信息

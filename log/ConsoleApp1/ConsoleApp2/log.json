@@ -1,0 +1,13 @@
+{
+  "LogLevel": {
+    "Default": "Error",
+    "LoggerA": "Debug"
+  },
+  "Console": {
+    "LogLevel": {
+      "Default": "Information",
+      "LoggerA": "Warning",
+      "LoggerB": "Critical"
+    }
+  }
+}

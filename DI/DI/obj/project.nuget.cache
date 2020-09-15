@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gtwa4b/DOgK30N+0dsKGM+4m5mHV9EtpqaAqJwtzK7omGkYGIShWLx8c2zyhDT6FPI/crmdZBfKaycqvRYu8AQ==",
+  "success": true,
+  "projectFilePath": "F:\\vs2019\\test\\aspnetcore\\DI\\DI\\DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuzhijian\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\xuzhijian\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\xuzhijian\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\xuzhijian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

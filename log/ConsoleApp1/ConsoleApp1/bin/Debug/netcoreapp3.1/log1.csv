@@ -1,0 +1,6 @@
+SourceName,EventType,EventId,N/A,ProcessId,N/A,ThreadId,DateTime,
+"Trace",Warning,1,"Warning信息",,65252,,"1","2020-07-22T06:22:07.1438767Z",,
+SourceName,EventType,EventId,Message,N/A,ProcessId,N/A,ThreadId,DateTime,
+"Trace",Warning,1,"Warning信息",,66336,,"1","2020-07-22T06:24:38.0117770Z",,
+SourceName,EventType,EventId,Message,N/A,ProcessId,N/A,ThreadId,DateTime,
+"Trace",Warning,1,"Warning信息",,45608,,"1","2020-07-22T06:42:57.3088950Z",,

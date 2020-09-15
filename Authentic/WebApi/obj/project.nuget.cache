@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvfy++WTea8i1qWvd6B3VsWoFAPQ1mEd3L2WDpe5bjmSeM0sJqtYlnZKHwXIXQ6VZIL7OZKQLSRxd4myJlqPEA==",
+  "success": true,
+  "projectFilePath": "F:\\vs2019\\test\\aspnetcore\\Authentic\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuzhijian\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
